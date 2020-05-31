@@ -1,0 +1,5 @@
+[30-May-2020 13:01:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Composer\Composer' not found in /home/thesykvn/public_html/vendor/nesbot/carbon/src/Carbon/Upgrade.php:131
+Stack trace:
+#0 /home/thesykvn/public_html/vendor/nesbot/carbon/bin/upgrade-carbon(28): Carbon\Upgrade::upgrade()
+#1 {main}
+  thrown in /home/thesykvn/public_html/vendor/nesbot/carbon/src/Carbon/Upgrade.php on line 131
